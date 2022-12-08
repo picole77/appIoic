@@ -1,0 +1,7 @@
+{
+  "name": "App-hibrida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
